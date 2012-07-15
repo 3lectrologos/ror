@@ -4,4 +4,7 @@ class PagesController < ApplicationController
 
   def vita
   end
+
+  def about
+  end
 end
